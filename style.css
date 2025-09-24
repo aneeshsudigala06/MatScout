@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+	display: flex;
+  justify-content: center;
+  align-items: center;           
+  min-height: 200vh;
+}
+
+h1 {
+	color: black;
+	font-size: 30px;
+}
+
+h2 {
+	color: black;
+	font-size: 25px;
+}
+
+h3 {
+	color: black;
+	font-size: 20px;
+}
+
+p {
+	color: black;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;  
+}
+
+.extra-space {
+  margin-bottom: 2rem;
+}
+
+.change-color-on-hover {
+  color: black;
+  transform-origin: left;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.change-color-on-hover:hover {
+  color: #4B9CD3;
+}
+
+.change-size-on-hover {
+  transform-origin: left;
+  transition: transform 0.3s ease;
+}
+
+.change-size-on-hover:hover {
+  transform: 1.1%6;
+}
