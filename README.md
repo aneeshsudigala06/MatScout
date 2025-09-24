@@ -1,5 +1,7 @@
 # MatScout
 
+![Site Image](https://github.com/aneeshsudigala06/MatScout/blob/main/siteimage.png)
+
 ## Description
 Scouting Project for Carolina Wrestling.
 
